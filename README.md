@@ -108,6 +108,8 @@ if _name_ == '_main_':
 
 Insert image here
 ![output](<Screenshot 2023-12-31 213805.png>)
+![output](robot.jpg)
+![output](car.jpg)
 
 
 <br/>
@@ -119,8 +121,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-https://youtu.be/Lfw8zWgJ2QU?feature=shared
-
+https://youtube.com/shorts/0xdDmoNkE6w?si=1dtaop-FR6Dd8wWJ
 <br/>
 <br/>
 <br/>
