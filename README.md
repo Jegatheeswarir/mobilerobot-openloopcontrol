@@ -109,7 +109,7 @@ if _name_ == '_main_':
 Insert image here
 ![output](<Screenshot 2023-12-31 213805.png>)
 ![output](robot.jpg)
-![output](car.jpg)
+
 
 
 <br/>
